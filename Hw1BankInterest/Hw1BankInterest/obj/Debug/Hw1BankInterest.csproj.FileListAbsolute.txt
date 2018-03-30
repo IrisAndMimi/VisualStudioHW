@@ -1,0 +1,10 @@
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\bin\Debug\Hw1BankInterest.exe.config
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\bin\Debug\Hw1BankInterest.exe
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\bin\Debug\Hw1BankInterest.pdb
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.Properties.Resources.resources
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.csproj.GenerateResource.cache
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.csproj.CoreCompileInputs.cache
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.exe
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.pdb
+C:\Users\Iris\Desktop\Hw1BankInterest\Hw1BankInterest\obj\Debug\Hw1BankInterest.Form1.resources

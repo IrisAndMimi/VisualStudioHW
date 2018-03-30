@@ -1,0 +1,9 @@
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\bin\Debug\Hw2CameraShop.exe.config
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\bin\Debug\Hw2CameraShop.exe
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\bin\Debug\Hw2CameraShop.pdb
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\obj\Debug\Hw2CameraShop.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\obj\Debug\Hw2CameraShop.Properties.Resources.resources
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\obj\Debug\Hw2CameraShop.csproj.GenerateResource.cache
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\obj\Debug\Hw2CameraShop.csproj.CoreCompileInputs.cache
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\obj\Debug\Hw2CameraShop.exe
+C:\Users\Iris\Desktop\Hw2CameraShop\Hw2CameraShop\obj\Debug\Hw2CameraShop.pdb

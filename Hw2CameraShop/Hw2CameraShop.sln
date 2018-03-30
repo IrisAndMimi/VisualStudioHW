@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw2CameraShop", "Hw2CameraShop\Hw2CameraShop.csproj", "{CE90F49C-2772-4A4E-827C-44BC96FD57CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE90F49C-2772-4A4E-827C-44BC96FD57CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE90F49C-2772-4A4E-827C-44BC96FD57CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE90F49C-2772-4A4E-827C-44BC96FD57CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE90F49C-2772-4A4E-827C-44BC96FD57CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CE076F-F2A1-46BB-9DC6-1F05F34B3D5F}
+	EndGlobalSection
+EndGlobal
