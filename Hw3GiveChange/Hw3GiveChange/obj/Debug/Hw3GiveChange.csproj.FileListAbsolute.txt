@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\bin\Debug\Hw3GiveChange.exe.config
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\bin\Debug\Hw3GiveChange.exe
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\bin\Debug\Hw3GiveChange.pdb
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\obj\Debug\Hw3GiveChange.Form1.resources
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\obj\Debug\Hw3GiveChange.Properties.Resources.resources
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\obj\Debug\Hw3GiveChange.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\obj\Debug\Hw3GiveChange.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\obj\Debug\Hw3GiveChange.exe
+C:\Users\user\source\repos\Hw3GiveChange\Hw3GiveChange\obj\Debug\Hw3GiveChange.pdb
