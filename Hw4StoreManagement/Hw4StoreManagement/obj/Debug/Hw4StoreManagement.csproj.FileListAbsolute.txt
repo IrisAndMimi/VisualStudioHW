@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\bin\Debug\Hw4StoreManagement.exe.config
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\bin\Debug\Hw4StoreManagement.exe
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\bin\Debug\Hw4StoreManagement.pdb
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.Form1.resources
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.Properties.Resources.resources
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.exe
+C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.pdb
