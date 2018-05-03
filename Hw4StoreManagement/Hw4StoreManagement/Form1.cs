@@ -30,12 +30,17 @@ namespace Hw4StoreManagement
             Boolean flag = false;
             if (comboBox1.Text == "")
             {
-                MessageBox.Show("品名未輸入(字串)", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("品名未輸入字串", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             if (tbx_cost.Text == "")
             {
-                MessageBox.Show("成本未輸入(正整數)", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("成本請輸入字串", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (Convert.ToInt32(tbx_cost.Text) < 0)
+            {
+                MessageBox.Show("成本請輸入正整數", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             else
@@ -46,13 +51,18 @@ namespace Hw4StoreManagement
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("成本輸入格式不合(正整數)", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("成本輸入格式不正確", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
             }
             if (tbx_pay.Text == "")
             {
-                MessageBox.Show("售價未輸入(正整數)", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("售價請輸入字串", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (Convert.ToInt32(tbx_pay.Text) < 0)
+            {
+                MessageBox.Show("售價請輸入正整數", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             else
@@ -63,7 +73,7 @@ namespace Hw4StoreManagement
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("售價輸入格式不合(正整數)", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("售價輸入格式不正確", "警告!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
             }
