@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,48 +19,24 @@ namespace Hw5MonthCalender
         }
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
         {
-            switch(monthCalendar1.SelectionStart.Month)
+            int m = monthCalendar1.SelectionStart.Month;
+            if (m == 12 || (m < 2.5 && m > 0.5))
             {
-                case 1:
-                    pictureBox1.Image = Image.FromFile("冬.jpg");
-                    break;
-                case 2:
-                    pictureBox1.Image = Image.FromFile("冬.jpg");
-                    break;
-                case 3:
-                    pictureBox1.Image = Image.FromFile("春.jpg");
-                    break;
-                case 4:
-                    pictureBox1.Image = Image.FromFile("春.jpg");
-                    break;
-                case 5:
-                    pictureBox1.Image = Image.FromFile("春.jpg");
-                    break;
-                case 6:
-                    pictureBox1.Image = Image.FromFile("夏.jpg");
-                    break;
-                case 7:
-                    pictureBox1.Image = Image.FromFile("夏.jpg");
-                    break;
-                case 8:
-                    pictureBox1.Image = Image.FromFile("夏.jpg");
-                    break;
-                case 9:
-                    pictureBox1.Image = Image.FromFile("秋.jpg");
-                    break;
-                case 10:
-                    pictureBox1.Image = Image.FromFile("秋.jpg");
-                    break;
-                case 11:
-                    pictureBox1.Image = Image.FromFile("秋.jpg");
-                    break;
-                case 12:
-                    pictureBox1.Image = Image.FromFile("冬.jpg");
-                    break;
-
+                pictureBox1.Image = Image.FromFile("../../Resources/冬.jpg");
             }
-            
-       
+            else if (m < 5.5 && m > 2.5)
+            {
+                pictureBox1.Image = Image.FromFile("../../Resources/春.jpg");
+            }
+            else if (m < 8.5 && m > 5.5)
+            {
+                pictureBox1.Image = Image.FromFile("../../Resources/夏.jpg");
+            }
+            else if (m < 11.5 && m > 8.5)
+            {
+                pictureBox1.Image = Image.FromFile("../../Resources/秋.jpg");
+            }
+
         }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\D
 C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.exe
 C:\Users\user\Desktop\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\bin\Debug\Hw4StoreManagement.exe.config
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\bin\Debug\Hw4StoreManagement.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\bin\Debug\Hw4StoreManagement.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.Form1.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.Properties.Resources.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csproj.GenerateResource.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw4StoreManagement\Hw4StoreManagement\obj\Debug\Hw4StoreManagement.pdb

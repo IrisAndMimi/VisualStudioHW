@@ -8,3 +8,13 @@ C:\Users\user\source\repos\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthC
 C:\Users\user\source\repos\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.exe
 C:\Users\user\source\repos\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\bin\Debug\Hw5MonthCalender.exe.config
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\bin\Debug\Hw5MonthCalender.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\bin\Debug\Hw5MonthCalender.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.Form1.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.Properties.Resources.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.csproj.GenerateResource.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.csproj.CoreCompileInputs.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw5MonthCalender\Hw5MonthCalender\obj\Debug\Hw5MonthCalender.pdb
