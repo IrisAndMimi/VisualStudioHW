@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\bin\Debug\Hw6Lottery.exe.config
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\bin\Debug\Hw6Lottery.exe
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\bin\Debug\Hw6Lottery.pdb
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.Form1.resources
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.Properties.Resources.resources
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.exe
+C:\Users\user\source\repos\Hw6Lottery\Hw6Lottery\obj\Debug\Hw6Lottery.pdb

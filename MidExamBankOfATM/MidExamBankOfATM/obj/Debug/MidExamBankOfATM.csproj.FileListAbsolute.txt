@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\bin\Debug\MidExamBankOfATM.exe.config
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\bin\Debug\MidExamBankOfATM.exe
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\bin\Debug\MidExamBankOfATM.pdb
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form1.resources
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Properties.Resources.resources
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.exe
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.pdb
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form2.resources
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form3.resources
+C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form4.resources
