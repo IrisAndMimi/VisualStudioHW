@@ -45,7 +45,7 @@ namespace Hw1BankInterest
             }
             catch
             {
-                MessageBox.Show("請輸入數值!", "");
+                MessageBox.Show("本金請輸入數值!", "");
 
             }
         }

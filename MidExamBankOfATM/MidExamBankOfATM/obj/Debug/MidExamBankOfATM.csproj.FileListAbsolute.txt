@@ -11,3 +11,16 @@ C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBa
 C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form2.resources
 C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form3.resources
 C:\Users\user\source\repos\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form4.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\bin\Debug\MidExamBankOfATM.exe.config
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\bin\Debug\MidExamBankOfATM.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\bin\Debug\MidExamBankOfATM.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form1.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form2.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form3.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Form4.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.Properties.Resources.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.csproj.GenerateResource.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.csproj.CoreCompileInputs.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\MidExamBankOfATM\MidExamBankOfATM\obj\Debug\MidExamBankOfATM.pdb
