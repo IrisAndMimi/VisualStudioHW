@@ -43,7 +43,7 @@ namespace Hw7Trivago
             on2 = on2 + 1;
             if (on2 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 2400));
+                tot.Text = Convert.ToString("總金額:" + (t + 1600));
             }
             else
             {
@@ -57,7 +57,7 @@ namespace Hw7Trivago
             on3 = on3 + 1;
             if (on3 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 2400));
+                tot.Text = Convert.ToString("總金額:" + (t + 3000));
             }
         }
 
@@ -66,7 +66,7 @@ namespace Hw7Trivago
             on4 = on4 + 1;
             if (on4 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 2400));
+                tot.Text = Convert.ToString("總金額:" + (t + 2600));
             }
         }
 
@@ -75,18 +75,33 @@ namespace Hw7Trivago
             on5 = on5 + 1;
             if (on5 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 2400));
+                tot.Text = Convert.ToString("總金額:" + (t + 3500));
             }
         }
 
         private void checkBox1_MouseEnter(object sender, EventArgs e)
         {
-            label1.Text = Convert.ToString("請勾選");
+            label1.Text = Convert.ToString("頂級套房，蜜月專屬。");
         }
 
-        private void checkBox1_MouseLeave(object sender, EventArgs e)
+        private void checkBox_MouseLeave(object sender, EventArgs e)
         {
             label1.Text = Convert.ToString("歡迎光臨 Visual 民宿");
+        }
+
+        private void checkBox2_4_MouseEnter(object sender, EventArgs e)
+        {
+            label1.Text = Convert.ToString("普通套房，普通衛浴、電視。");
+        }
+
+        private void checkBox3_MouseEnter(object sender, EventArgs e)
+        {
+            label1.Text = Convert.ToString("小木屋，有客廳、按摩衛浴、SPA...");
+        }
+
+        private void checkBox5_MouseEnter(object sender, EventArgs e)
+        {
+            label1.Text = Convert.ToString("兩層木屋，有客廳、按摩衛浴、SPA...");
         }
     }
 }

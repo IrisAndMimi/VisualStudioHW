@@ -16,3 +16,13 @@ C:\Users\user\source\repos\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Tri
 C:\Users\user\source\repos\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.exe
 C:\Users\user\source\repos\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\bin\Debug\Hw7Trivago.exe.config
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\bin\Debug\Hw7Trivago.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\bin\Debug\Hw7Trivago.pdb
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.Form1.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.Properties.Resources.resources
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.csproj.GenerateResource.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.csproj.CoreCompileInputs.cache
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.exe
+C:\Users\Iris\Documents\GitHub\VisualStudioHw\Hw7Trivago\Hw7Trivago\obj\Debug\Hw7Trivago.pdb
