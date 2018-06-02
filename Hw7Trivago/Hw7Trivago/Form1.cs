@@ -17,7 +17,21 @@ namespace Hw7Trivago
         int on3 = 0;
         int on4 = 0;
         int on5 = 0;
-        int t = 0;
+
+        int t;
+
+        int h1 = 2400;
+        int h2 = 1600;
+        int h3 = 3000;
+        int h4 = 2600;
+        int h5 = 3500;
+
+        int n1;
+        int n2;
+        int n3;
+        int n4;
+        int n5;
+
         public Form1()
         {
             InitializeComponent();
@@ -28,12 +42,10 @@ namespace Hw7Trivago
             on1 = on1 + 1;
             if (on1 % 2 == 1)
             {
-                int h1 = 2400;
                 textBox1.Enabled = true;
             }
             else
             {
-                tot.Text = Convert.ToString("請勾選房型並輸入間數");
                 textBox1.Enabled = false;
             }
         }
@@ -43,11 +55,11 @@ namespace Hw7Trivago
             on2 = on2 + 1;
             if (on2 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 1600));
+                textBox2.Enabled = true;
             }
             else
             {
-                tot.Text = Convert.ToString("請勾選房型並輸入間數");
+                textBox2.Enabled = false;
             }
 
         }
@@ -57,7 +69,11 @@ namespace Hw7Trivago
             on3 = on3 + 1;
             if (on3 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 3000));
+                textBox3.Enabled = true;
+            }
+            else
+            {
+                textBox3.Enabled = false;
             }
         }
 
@@ -66,7 +82,11 @@ namespace Hw7Trivago
             on4 = on4 + 1;
             if (on4 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 2600));
+                textBox4.Enabled = true;
+            }
+            else
+            {
+                textBox4.Enabled = false;
             }
         }
 
@@ -75,7 +95,11 @@ namespace Hw7Trivago
             on5 = on5 + 1;
             if (on5 % 2 == 1)
             {
-                tot.Text = Convert.ToString("總金額:" + (t + 3500));
+                textBox5.Enabled = true;
+            }
+            else
+            {
+                textBox5.Enabled = false;
             }
         }
 
@@ -103,5 +127,49 @@ namespace Hw7Trivago
         {
             label1.Text = Convert.ToString("兩層木屋，有客廳、按摩衛浴、SPA...");
         }
+
+        private void t_chgd()
+        {
+            if (t == 0)
+            {
+                tot.Text = Convert.ToString("請勾選房型並輸入間數");
+            }
+            else
+            {
+                tot.Text = Convert.ToString("總金額: " + t);
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                n1 = Convert.ToInt32(textBox1.Text);
+                t = t + h1 * n1;
+                tot.Text = Convert.ToString("總金額: " + t);
+            }
+            catch (Exception)
+            {
+                t = t - h1 * n1;
+                t_chgd();
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                n2 = Convert.ToInt32(textBox2.Text);
+                t = t + h2 * n2;
+                tot.Text = Convert.ToString("總金額: " + t);
+            }
+            catch (Exception)
+            {
+                t = t - h2 * n2;
+                t_chgd();
+            }
+        }
+        
+       
     }
 }
