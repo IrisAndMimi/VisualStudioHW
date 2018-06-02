@@ -35,22 +35,18 @@ namespace Hw7Trivago
         {
             textBox1.Enabled = this.checkBox1.Checked;
         }
-       
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
             textBox2.Enabled = this.checkBox2.Checked;
         }
-
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
             textBox3.Enabled = this.checkBox3.Checked;
         }
-
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
         {
             textBox4.Enabled = this.checkBox4.Checked;
         }
-
         private void checkBox5_CheckedChanged(object sender, EventArgs e)
         {
             textBox5.Enabled = this.checkBox5.Checked;
@@ -60,27 +56,23 @@ namespace Hw7Trivago
         {
             label1.Text = Convert.ToString("頂級套房，蜜月專屬。");
         }
-
-        private void checkBox_MouseLeave(object sender, EventArgs e)
-        {
-            label1.Text = Convert.ToString("歡迎光臨 Visual 民宿");
-        }
-
         private void checkBox2_4_MouseEnter(object sender, EventArgs e)
         {
             label1.Text = Convert.ToString("普通套房，普通衛浴、電視。");
         }
-
         private void checkBox3_MouseEnter(object sender, EventArgs e)
         {
             label1.Text = Convert.ToString("小木屋，有客廳、按摩衛浴、SPA...");
         }
-
         private void checkBox5_MouseEnter(object sender, EventArgs e)
         {
             label1.Text = Convert.ToString("兩層木屋，有客廳、按摩衛浴、SPA...");
         }
-
+        private void checkBox_MouseLeave(object sender, EventArgs e)
+        {
+            label1.Text = Convert.ToString("歡迎光臨 Visual 民宿");
+        }
+        
         private void t_chgd()
         {
             if (t == 0)
