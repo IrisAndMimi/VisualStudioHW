@@ -62,11 +62,12 @@
             // tot
             // 
             this.tot.AutoSize = true;
+            this.tot.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.tot.Font = new System.Drawing.Font("新細明體", 10F);
             this.tot.Location = new System.Drawing.Point(118, 636);
             this.tot.Margin = new System.Windows.Forms.Padding(7, 0, 7, 0);
             this.tot.Name = "tot";
-            this.tot.Size = new System.Drawing.Size(282, 27);
+            this.tot.Size = new System.Drawing.Size(284, 29);
             this.tot.TabIndex = 1;
             this.tot.Text = "請勾選房型並輸入間數";
             // 
@@ -168,6 +169,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(97, 36);
             this.textBox3.TabIndex = 9;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox4
             // 
@@ -177,6 +179,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(97, 36);
             this.textBox4.TabIndex = 10;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox5
             // 
@@ -186,6 +189,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(97, 36);
             this.textBox5.TabIndex = 11;
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // label2
             // 
@@ -246,6 +250,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(784, 732);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);

@@ -13,6 +13,7 @@ namespace Hw7Trivago
     public partial class Form1 : Form
     {
         int t;
+        int tmp;
 
         int h1 = 2400;
         int h2 = 1600;
@@ -34,22 +35,67 @@ namespace Hw7Trivago
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             textBox1.Enabled = this.checkBox1.Checked;
+            if (this.checkBox1.Checked == false)
+            {
+                t = t-h1*n1;
+            }
+            else
+            {
+                t = t + h1 * n1;
+            }
+            t_chgd();
         }
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
             textBox2.Enabled = this.checkBox2.Checked;
+            if (this.checkBox2.Checked == false)
+            {
+                t = t - h2 * n2;
+            }
+            else
+            {
+                t = t + h2 * n2;
+            }
+            t_chgd();
         }
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
             textBox3.Enabled = this.checkBox3.Checked;
+            if (this.checkBox3.Checked == false)
+            {
+                t = t - h3 * n3;
+            }
+            else
+            {
+                t = t + h3 * n3;
+            }
+            t_chgd();
         }
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
         {
             textBox4.Enabled = this.checkBox4.Checked;
+            if (this.checkBox4.Checked == false)
+            {
+                t = t - h4 * n4;
+            }
+            else
+            {
+                t = t + h4 * n4;
+            }
+            t_chgd();
         }
         private void checkBox5_CheckedChanged(object sender, EventArgs e)
         {
             textBox5.Enabled = this.checkBox5.Checked;
+            if (this.checkBox5.Checked == false)
+            {
+                t = t - h5 * n5;
+            }
+            else
+            {
+                t = t + h5 * n5;
+            }
+            t_chgd();
         }
 
         private void checkBox1_MouseEnter(object sender, EventArgs e)
@@ -79,9 +125,13 @@ namespace Hw7Trivago
             {
                 tot.Text = Convert.ToString("請勾選房型並輸入間數");
             }
-            else
+            else if (t>0)
             {
                 tot.Text = Convert.ToString("總金額: " + t);
+            }
+            else
+            {
+                MessageBox.Show("請輸入數值", "");
             }
         }
 
@@ -89,32 +139,96 @@ namespace Hw7Trivago
         {
             try
             {
+                if (t == tmp)
+                {
+                    t = t - h1 * n1;
+                }
                 n1 = Convert.ToInt32(textBox1.Text);
                 t = t + h1 * n1;
-                tot.Text = Convert.ToString("總金額: " + t);
+                tmp = t;
+                t_chgd();
             }
             catch (Exception)
             {
-                t = t - h1 * n1;
                 t_chgd();
+                MessageBox.Show("請輸入數值", "");
             }
         }
-
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             try
             {
+                if (t == tmp)
+                {
+                    t = t - h2 * n2;
+                }
                 n2 = Convert.ToInt32(textBox2.Text);
                 t = t + h2 * n2;
-                tot.Text = Convert.ToString("總金額: " + t);
+                tmp = t;
+                t_chgd();
             }
             catch (Exception)
             {
-                t = t - h2 * n2;
                 t_chgd();
+                MessageBox.Show("請輸入數值", "");
             }
         }
-        
-       
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                if (t == tmp)
+                {
+                    t = t - h3 * n3;
+                }
+                n3 = Convert.ToInt32(textBox3.Text);
+                t = t + h3 * n3;
+                tmp = t;
+                t_chgd();
+            }
+            catch (Exception)
+            {
+                t_chgd();
+                MessageBox.Show("請輸入數值", "");
+            }
+        }
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                if (t == tmp)
+                {
+                    t = t - h4 * n4;
+                }
+                n4 = Convert.ToInt32(textBox4.Text);
+                t = t + h4 * n4;
+                tmp = t;
+                t_chgd();
+            }
+            catch (Exception)
+            {
+                t_chgd();
+                MessageBox.Show("請輸入數值", "");
+            }
+        }
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                if (t == tmp)
+                {
+                    t = t - h5 * n5;
+                }
+                n5 = Convert.ToInt32(textBox5.Text);
+                t = t + h5 * n5;
+                tmp = t;
+                t_chgd();
+            }
+            catch (Exception)
+            {
+                t_chgd();
+                MessageBox.Show("請輸入數值", "");
+            }
+        }
     }
 }
