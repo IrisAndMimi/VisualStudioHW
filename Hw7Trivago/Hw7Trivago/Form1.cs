@@ -12,12 +12,6 @@ namespace Hw7Trivago
 {
     public partial class Form1 : Form
     {
-        int on1 = 0;
-        int on2 = 0;
-        int on3 = 0;
-        int on4 = 0;
-        int on5 = 0;
-
         int t;
 
         int h1 = 2400;
@@ -39,68 +33,27 @@ namespace Hw7Trivago
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            on1 = on1 + 1;
-            if (on1 % 2 == 1)
-            {
-                textBox1.Enabled = true;
-            }
-            else
-            {
-                textBox1.Enabled = false;
-            }
+            textBox1.Enabled = this.checkBox1.Checked;
         }
        
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            on2 = on2 + 1;
-            if (on2 % 2 == 1)
-            {
-                textBox2.Enabled = true;
-            }
-            else
-            {
-                textBox2.Enabled = false;
-            }
-
+            textBox2.Enabled = this.checkBox2.Checked;
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
-            on3 = on3 + 1;
-            if (on3 % 2 == 1)
-            {
-                textBox3.Enabled = true;
-            }
-            else
-            {
-                textBox3.Enabled = false;
-            }
+            textBox3.Enabled = this.checkBox3.Checked;
         }
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
         {
-            on4 = on4 + 1;
-            if (on4 % 2 == 1)
-            {
-                textBox4.Enabled = true;
-            }
-            else
-            {
-                textBox4.Enabled = false;
-            }
+            textBox4.Enabled = this.checkBox4.Checked;
         }
 
         private void checkBox5_CheckedChanged(object sender, EventArgs e)
         {
-            on5 = on5 + 1;
-            if (on5 % 2 == 1)
-            {
-                textBox5.Enabled = true;
-            }
-            else
-            {
-                textBox5.Enabled = false;
-            }
+            textBox5.Enabled = this.checkBox5.Checked;
         }
 
         private void checkBox1_MouseEnter(object sender, EventArgs e)
