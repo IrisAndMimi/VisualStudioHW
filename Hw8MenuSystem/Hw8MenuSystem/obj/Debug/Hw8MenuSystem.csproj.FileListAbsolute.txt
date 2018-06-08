@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\bin\Debug\Hw8MenuSystem.exe.config
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\bin\Debug\Hw8MenuSystem.exe
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\bin\Debug\Hw8MenuSystem.pdb
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.Form1.resources
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.Properties.Resources.resources
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.exe
+C:\Users\user\source\repos\Hw8MenuSystem\Hw8MenuSystem\obj\Debug\Hw8MenuSystem.pdb
