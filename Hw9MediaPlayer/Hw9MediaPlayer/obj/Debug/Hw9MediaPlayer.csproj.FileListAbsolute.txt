@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\bin\Debug\Hw9MediaPlayer.exe.config
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\bin\Debug\Hw9MediaPlayer.exe
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\bin\Debug\Hw9MediaPlayer.pdb
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.Form1.resources
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.Properties.Resources.resources
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.exe
+C:\Users\user\source\repos\Hw9MediaPlayer\Hw9MediaPlayer\obj\Debug\Hw9MediaPlayer.pdb
